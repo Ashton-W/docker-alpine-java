@@ -1,4 +1,4 @@
-## Minimal Docker image with Java
+## Minimal Docker image with Java 7
 
 [![Build Status](https://travis-ci.org/Ashton-W/docker-alpine-java-7.svg?branch=master)](https://travis-ci.org/Ashton-W/docker-alpine-java-7)
 
