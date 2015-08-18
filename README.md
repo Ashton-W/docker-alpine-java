@@ -7,13 +7,8 @@
 Basic [Docker](https://www.docker.com/) image to run [Java](https://www.java.com/) applications.
 This is based off [Busybox](http://www.busybox.net/) to keep the size minimal (about 25% of an ubuntu-based image).
 
-### Tags
-
-* `latest` or `8`: Oracle Java 8 (Server JRE)
-* `jdk8` or `jdk`: Oracle Java 8 (JDK)
-
 ### Usage
 
 Example: 
 
-    docker run -it --rm anapsix/alpine-java java -version
+    docker run -it --rm Ashton-W/docker-alpine-java-7 java -version
